@@ -4,7 +4,7 @@
 
 ---
 
-## 🚀 Key Features (Judge-Winning UX)
+##  Key Features
 
 1. **Academic Auditor Agent (Rigor Analysis)**: Replaces simple summaries. It reviews paper text like a harsh peer-reviewer, highlighting small sample sizes, missing baselines, control flaws, and logic leaps.
 2. **Argument & Evidence Map (React Flow)**: A node-link graph mapping the structure of the scientific argument. Instead of a vocabulary cloud, it links **CLAIMS** to **EVIDENCE** and **AUDIT WARNINGS**.
@@ -14,7 +14,7 @@
 
 ---
 
-## 🛠️ Architecture & Technology Stack
+##  Architecture & Technology Stack
 
 ```
    ┌─────────────────────────────────────────────────────────────┐
@@ -38,7 +38,7 @@
 
 ---
 
-## 📦 Getting Started & Setup
+##  Getting Started & Setup
 
 ACADEMIQ features a **dual-execution system**:
 1. **Demo Mode (Default)**: Runs a high-fidelity local workspace using the seminal paper *"Attention Is All You Need"* with full coordinate highlights, an argument map, and flashcards. Perfect for offline pitches and 15-second live demos.
@@ -83,13 +83,7 @@ ACADEMIQ features a **dual-execution system**:
 
 ---
 
-## 🧑‍💻 Finals Pitch Script (3 Minutes to Win)
 
-* **0:00 - 0:30 (The Hook)**: Explain why standard PDF summarizers are dangerous. Introduce ACADEMIQ as an autonomous peer-reviewer that audits rigor instead of copy-pasting text.
-* **0:30 - 1:15 (The Auditor & PDF Sync)**: Point to the **Argument & Evidence Map**. Click on a glowing orange **AUDIT_WARNING** node; show the PDF instantly snap to the page and highlight the exact sentence.
-* **1:15 - 2:00 (The Tech Flex)**: Point to the **CoT Terminal** showing live SSE logs. "Technical judges, look here. This isn't a single prompt. It's a multi-agent debate where the Verifier is actively policing hallucinations."
-* **2:00 - 2:45 (Recall & ELI5)**: Toggle the **ELI5 switch** to translate self-attention into a cocktail party analogy. Trigger a flashcard failure to show the PDF auto-scrolling to teach the user.
-* **2:45 - 3:00 (The Close)**: Summarize how ACADEMIQ accelerates academic reading by 80% while restoring trust in AI-assisted literature review.
 
 ---
 
